@@ -29,10 +29,8 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   
 <br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
+<p align="left">
 <a href="https://wa.link/c5jbdg">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="LinkedIn Badge"/>
   </a>
