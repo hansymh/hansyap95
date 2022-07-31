@@ -34,7 +34,7 @@
 <a href="https://wa.link/c5jbdg">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- <a href="https://victorlcs-portfolio.herokuapp.com/home">
+ <a href="https://hansymh95.netlify.app/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Youtube Badge"/>
   </a>
 </p>
