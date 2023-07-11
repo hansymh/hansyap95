@@ -32,6 +32,8 @@
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+
   
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
