@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 💼 &nbsp; Working as a Full Stack Developer .
-- 🌱 &nbsp; I'm currently learning Laravel and Next framework, latest JavaScript features, NodeJS, and MongoDB
+- 🌱 &nbsp; I'm currently learning Laravel and Angular framework, latest JavaScript features, NodeJS, and MongoDB
 - ✍️ &nbsp; I'm interested in building interesting solution that will promotes positivity and value to society
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
