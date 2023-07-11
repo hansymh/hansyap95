@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 💼 &nbsp; Working as a Full Stack Developer .
-- 🌱 &nbsp; I'm currently learning Laravel and Angular framework, latest JavaScript features, NodeJS, and MongoDB
+- 🌱 &nbsp; I'm currently learning .NET and Angular framework, latest JavaScript features, NodeJS, and MongoDB
 - ✍️ &nbsp; I'm interested in building interesting solution that will promotes positivity and value to society
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -16,10 +16,11 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=bootstrap&logoColor=white)
-  <br/><br/>
+  <br/>
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=redux&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+  ![.NET](  https://img.shields.io/badge/.NET-512BD4?style=flat&logo=next.js&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Nest JS](https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
