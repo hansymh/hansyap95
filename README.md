@@ -20,7 +20,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=redux&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-  ![.NET](  https://img.shields.io/badge/.NET-512BD4?style=flat&logo=next.js&logoColor=white)
+  ![.NET](  https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Nest JS](https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
